@@ -1,0 +1,5 @@
+numero = int (input('Digite um numero inteiro:'))
+antecessor = (numero - 1)
+sucessor = (numero + 1)
+print ('O antecessor de {} e igual a {} e seu sucessor é {}'.format(numero, antecessor, sucessor))
+print ('podia fazer as contas no . format para economizar memoria mas so se ja fosse usar o print se nao tinha que criar um variavel')
